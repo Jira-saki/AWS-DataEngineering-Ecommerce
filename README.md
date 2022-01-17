@@ -1,6 +1,6 @@
 
 # AWS data engineering project
-<img src="/Users/gee/Documents/GitHub/aws-data-engineering/image/Ecommerce Dataengineering.drawio.png" width="800">
+<img src="https://github.com/Jira-saki/AWS-DataEngineering-Ecommerce/blob/main/image/Ecommerce%20Dataengineering.drawio.png" width="1400">
 
 # Introduction & Goals
 - Creating Data pipeline for ECOMMERCE dataset for analysis. 
@@ -50,7 +50,7 @@
 
 # Used Tools
 
-- I used the tools of this project as follow:
+- Used tools of this project as follow:
   
     - API gateway
     - AWS Kinesis firehose Delivery stream
@@ -84,7 +84,7 @@
 
 ## Visualization
   - Tableau: Connect to redshift
-  - AWS Athena : Connect to S3
+  - AWS Athena : Connect to S3 (also Ad-hoc Query)
   - S3 Select
 
 # Pipelines
