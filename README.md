@@ -87,9 +87,6 @@
   - AWS Athena : Connect to S3 (also Ad-hoc Query)
   - S3 Select
 
-# Pipelines
-- Explain the pipelines for processing that you are building
-- Go through your development and add your source code
 
 # Stream Processing
 - Data ingestion: Ingest data in CSV into AWS Kinesis through API gateway
